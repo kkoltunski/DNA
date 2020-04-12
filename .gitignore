@@ -1,0 +1,7 @@
+#VisualStudio files#
+*.filters
+*.user
+linearized_output.pdf
+
+#Folders#
+x64
